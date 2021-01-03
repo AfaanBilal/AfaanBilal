@@ -13,4 +13,4 @@ Connect
 
 GitHub Stats
 ------------
-[![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=tokyonight)](https://afaan.me)
+[![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&hide=prs,contribs&count_private=true)](https://afaan.me)
