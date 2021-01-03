@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal)](https://afaan.me)
+[![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=tokyonight)](https://afaan.me)
