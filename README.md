@@ -11,6 +11,8 @@ Connect
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@afaanbilal)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
 
+<a href="https://www.buymeacoffee.com/AfaanBilal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width=" 180px"></a>
+
 GitHub Stats
 ------------
 [![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://afaan.me)
