@@ -17,4 +17,4 @@ GitHub Stats
 ------------
 [![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://afaan.dev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10)](https://afaan.me)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10)](https://afaan.dev)
