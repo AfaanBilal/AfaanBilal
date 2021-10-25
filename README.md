@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hey! 👋
 
 #### I'm Afaan Bilal, a Software Engineer from Baramulla, Kashmir.
 
