@@ -13,7 +13,7 @@ Connect
 
 GitHub Stats
 ------------
-[![Afaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical)](https://git.io/streak-stats)
+[![Afaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical)](https://afaan.dev)
 
 [![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://afaan.dev)
 
