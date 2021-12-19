@@ -74,4 +74,6 @@ Tech Stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="96px" style="margin: 15px;">
 </p>
 
+---
+
 
