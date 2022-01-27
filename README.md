@@ -49,6 +49,10 @@ Tech Stack
     <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=96&color=7952b3" alt="Bootstrap" title="Bootstrap" width="96px" style="margin: 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" width="96px" style="margin: 15px;">
     <img src="https://icongr.am/devicon/javascript-original.svg?size=96&color=currentColor" alt="Javascript" title="Javascript" width="96px" style="margin: 15px;">
+    <img src="https://icongr.am/devicon/typescript-original.svg?size=96&color=currentColor" alt="Typescript" title="Typescript" width="96px" style="margin: 15px;">
+    <img src="https://icongr.am/devicon/nodejs-original.svg?size=96&color=currentColor" alt="NodeJS" title="NodeJS" width="96px" style="margin: 15px;">
+    <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=96&color=currentColor" alt="Express" title="Express" width="96px" style="margin: 15px;">
+    <img src="https://icongr.am/devicon/sequelize-original.svg?size=96&color=currentColor" alt="Sequelize" title="Sequelize" width="96px" style="margin: 15px;">
     <img src="https://icongr.am/devicon/vuejs-original.svg?size=96&color=currentColor" alt="Vuejs" title="Vuejs" width="96px" style="margin: 15px;">
     <img src="https://icongr.am/devicon/react-original.svg?size=96&color=currentColor" alt="React" title="React" width="96px" style="margin: 15px;">
     <img src="https://afaan.dev/assets/react-native.svg" alt="React Native" title="React Native" width="96px" style="margin: 15px;">
