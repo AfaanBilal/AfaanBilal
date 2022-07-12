@@ -52,7 +52,7 @@ Tech Stack
     <img src="https://icongr.am/devicon/javascript-original.svg?size=96&color=currentColor" alt="Javascript" title="Javascript" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/typescript-original.svg?size=96&color=currentColor" alt="Typescript" title="Typescript" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=96&color=currentColor" alt="NodeJS" title="NodeJS" width="50px" style="margin: 18px;">
-    <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=96&color=currentColor" alt="Express" title="Express" width="50px" style="margin: 18px;">
+    <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=96&color=green" alt="Express" title="Express" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/sequelize-original.svg?size=96&color=currentColor" alt="Sequelize" title="Sequelize" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/vuejs-original.svg?size=96&color=currentColor" alt="Vuejs" title="Vuejs" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/react-original.svg?size=96&color=currentColor" alt="React" title="React" width="50px" style="margin: 18px;">
