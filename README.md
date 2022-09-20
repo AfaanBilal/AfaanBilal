@@ -20,6 +20,7 @@ GitHub Stats
 
 [![Afaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10)](https://afaan.dev)
 
+
 Tech Stack
 ----------
 
