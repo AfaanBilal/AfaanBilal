@@ -20,7 +20,7 @@ GitHub Stats
 
 [![Afaan's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10)](https://afaan.dev)
 
-[![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://afaan.dev)
+[![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C,-A&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
 
 Tech Stack
 ----------
