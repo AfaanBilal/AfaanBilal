@@ -70,7 +70,6 @@ Tech Stack
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet" title="DotNet" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/apache-original.svg?size=96&color=currentColor" alt="Apache" title="Apache" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/ssh-original-wordmark.svg?size=96&color=currentColor" alt="Ssh" title="Ssh" width="50px" style="margin: 18px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="Inkscape" title="Inkscape" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" title="Vscode" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=96&color=currentColor" alt="Visualstudio" title="Visualstudio" width="50px" style="margin: 18px;">
