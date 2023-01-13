@@ -31,7 +31,7 @@ Tech Stack
     <img src="https://icongr.am/devicon/github-original.svg?size=96&color=currentColor" alt="Github" title="Github" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/gitlab-original.svg?size=96&color=currentColor" alt="Gitlab" title="Gitlab" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/go-original.svg?size=96&color=currentColor" alt="Go" title="Go" width="50px" style="margin: 18px;">
-    <img src="https://icongr.am/devicon/rust-original.svg?size=96&color=currentColor" alt="Go" title="Go" width="50px" style="margin: 18px;">
+    <img src="https://icongr.am/devicon/rust.svg?size=96&color=currentColor" alt="Go" title="Go" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" title="PHP" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" title="Composer" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/laravel-plain.svg?size=96&color=ff2d20" alt="Laravel" title="Laravel" width="50px" style="margin: 18px;">
