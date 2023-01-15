@@ -13,23 +13,15 @@ Connect
 
 GitHub Stats
 ------------
-<a href="https://afaan.dev">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" />
-</a>
+[![Afaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical)](https://afaan.dev)
 
-<a href="https://afaan.dev">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afaan's GitHub Stats" />
-</a>
+[![Afaan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://afaan.dev)
 
 ---
 
-<a href="https://afaan.dev">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10" alt="Afaan's Top Languages" />
-</a>
+[![Afaan's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20)](https://afaan.dev)
 
-<a href="https://afaan.dev">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AfaanBilal&column=5&theme=radical&no-bg=true&margin-w=5&margin-h=-5" alt="Afaan's Trophies" />
-</a>
+[![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
 
 Tech Stack
 ----------
