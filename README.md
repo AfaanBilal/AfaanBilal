@@ -60,7 +60,8 @@ Tech Stack
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=96&color=currentColor" alt="NodeJS" title="NodeJS" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=96&color=green" alt="Express" title="Express" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/sequelize-original.svg?size=96&color=currentColor" alt="Sequelize" title="Sequelize" width="50px" style="margin: 18px;">
-    <img src="https://icongr.am/devicon/vuejs-original.svg?size=96&color=currentColor" alt="Vuejs" title="Vuejs" width="50px" style="margin: 18px;">
+    <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" title="SolidJS" width="50px" style="margin: 18px;">
+    <img src="https://icongr.am/devicon/vuejs-original.svg?size=96&color=currentColor" alt="VueJS" title="VueJS" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/react-original.svg?size=96&color=currentColor" alt="React" title="React" width="50px" style="margin: 18px;">
     <img src="https://afaan.dev/assets/react-native.svg" alt="React Native" title="React Native" width="50px" style="margin: 18px;">
     <img src="https://afaan.dev/assets/expo.svg" alt="Expo" title="Expo" width="50px" style="margin: 18px;">
