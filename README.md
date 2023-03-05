@@ -9,6 +9,7 @@ Connect
 
 [![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
 [![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://amx.gg)
+
 [![Afaan's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaanbilal)
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
