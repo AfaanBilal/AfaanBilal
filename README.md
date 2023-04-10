@@ -7,12 +7,15 @@ I work as a **Senior Software Development Engineer** at **[Centiment](https://ww
 Connect
 -------
 
+<div align="center">
+    
 [![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
 [![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://amx.gg)
-
 [![Afaan's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaanbilal)
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
+    
+</div>
 
 My Courses
 -------------
@@ -29,7 +32,11 @@ GitHub Stats
 
 <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20" alt="Afaan's Top Languages" style="width: 520px" /></div>
 
+<div align="center">
+
 [![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
+
+</div>
 
 Tech Stack
 ----------
