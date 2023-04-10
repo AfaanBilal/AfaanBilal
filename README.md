@@ -21,13 +21,13 @@ My Courses
 GitHub Stats
 ------------
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 520px" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afaan's GitHub Stats" style="width: 520px" />
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 520px" /></div>
+    
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afaan's GitHub Stats" style="width: 520px" /></div>
 
 ---
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20" alt="Afaan's Top Languages" style="width: 520px" />
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20" alt="Afaan's Top Languages" style="width: 520px" /></div>
 
 [![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
 
