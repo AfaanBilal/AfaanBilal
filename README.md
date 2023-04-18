@@ -18,7 +18,6 @@ Connect
     
 </div>
 
-
 My Courses
 -------------
 ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
