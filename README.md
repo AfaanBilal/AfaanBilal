@@ -27,8 +27,8 @@ GitHub Stats
 ------------
 
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="height:250px" /> 
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" style="height:250px" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" /> 
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" />
 </div>
 
 ---
