@@ -30,7 +30,7 @@ GitHub Stats
 
 ---
 
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=20" alt="Afaan's Top Languages" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" style="width: 100%" /></div>
 
 ---
 
