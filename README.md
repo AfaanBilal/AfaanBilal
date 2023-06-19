@@ -26,11 +26,10 @@ My Courses
 GitHub Stats
 ------------
 
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 100%" /></div>
-
----
-
-<div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" style="width: 100%" /></div>
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="height:270px" /> 
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=14" alt="Afaan's Top Languages" style="height:270px" />
+</div>
 
 ---
 
