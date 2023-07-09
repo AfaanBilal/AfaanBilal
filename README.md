@@ -6,7 +6,7 @@ I work as a **Senior Software Development Engineer** at **[Centiment](https://ww
 
 Connect
 -------
-    
+
 [![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
 [![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://amx.gg)
 
@@ -14,31 +14,102 @@ Connect
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
 
-My Courses
-----------
+# My Courses
 
 - ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
 
+# Portfolio
+
 Mobile Apps
 ------------
 
-- ### [OneDua](https://github.com/AfaanBilal/one-dua)
-- ### [Whisper](https://github.com/AfaanBilal/whisper-app)
+- [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
+- [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
+- [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt)
+- [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
+
+
+Databases
+---------
+
+- [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
+- [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
+- [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli)
+- [HyperDB (JS) Client](https://github.com/AfaanBilal/hyperdb-js)
+- [HyperDB (Go) Client](https://github.com/AfaanBilal/hyperdb-go)
+- [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs)
+- [HyperDB (PHP) Client](https://github.com/AfaanBilal/hyperdb-php)
+- [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py)
+
+Web Frameworks
+--------------
+
+- [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
+- [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse)
+- [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo)
 
 Web Apps
 --------
 
-- ### [Open Source Summary](https://oss.afaan.dev)
-- ### [Solid-talk](https://afaan.dev/solid-talk/)
-- ### [Iron Guard Inventory Management](https://github.com/AfaanBilal/iron-guard-web)
+- [Open Source Summary (React)](https://oss.afaan.dev)
+- [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
+- [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web)
+- [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)
+- [Game of Life (JS)](https://afaan.dev/game-of-life/)
+- [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)
+- [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)
+- [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)
+- [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
+- [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
+
+API Servers
+-----------
+
+- [Whisper (Go)](https://github.com/AfaanBilal/whisper)
+- [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
+- [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager)
+- [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore)
+- [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server)
 
 Terminal Apps
 -------------
 
-- ### [Central Limit](https://github.com/AfaanBilal/central-limit)
-- ### [Sorting Visualizer](https://github.com/AfaanBilal/sorting-visualizer)
+- [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
+- [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
+- [Run Length Encoding (C++)](https://github.com/AfaanBilal/run-length-encoding)
+- [Race to 32768 (C++)](https://github.com/AfaanBilal/race-to-32768)
+- [21 Flags (C++)](https://github.com/AfaanBilal/21-flags)
+- [Console Shapes (C++)](https://github.com/AfaanBilal/console-shapes)
+- [Hangman (C++)](https://github.com/AfaanBilal/hangman)
+- [I-Beam Analysis (Python)](https://github.com/AfaanBilal/I-beam)
+- [Linear Equations Solver (Python)](https://github.com/AfaanBilal/linear-equations-solver)
+- [Word Permutations (Python)](https://github.com/AfaanBilal/py-word-permutations)
+- [Word Permutations (C)](https://github.com/AfaanBilal/word-permutations)
+- [Base Converter (C)](https://github.com/AfaanBilal/c-base-converter)
+- [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption)
+- [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console)
+- [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator)
+- [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections)
+- [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code)
+- [Hash Table (C)](https://github.com/AfaanBilal/hash-table)
 
+Windows Apps
+------------
+
+- [AMX TextEdit (C++)](https://github.com/AfaanBilal/AMX-TextEdit)
+- [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
+- [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor)
+- [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture)
+- [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis)
+- [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe)
+- [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)
+
+Guides
+-----
+
+- [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
+- [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
 
 GitHub Stats
 ------------
