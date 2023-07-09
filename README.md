@@ -14,12 +14,14 @@ Connect
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
 
-# My Courses
+## My Courses
 
 - ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
 
-# Portfolio
+---
+
+<h1 align="center">Open Source Portfolio</h1>
 
 Mobile Apps
 ------------
