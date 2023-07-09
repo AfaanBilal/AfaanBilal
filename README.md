@@ -15,10 +15,30 @@ Connect
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
 
 My Courses
--------------
+----------
 
 - ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
+
+Mobile Apps
+------------
+
+- ### [OneDua](https://github.com/AfaanBilal/one-dua)
+- ### [Whisper](https://github.com/AfaanBilal/whisper-app)
+
+Web Apps
+--------
+
+- ### [Open Source Summary](https://oss.afaan.dev)
+- ### [Solid-talk](https://afaan.dev/solid-talk/)
+- ### [Iron Guard Inventory Management](https://github.com/AfaanBilal/iron-guard-web)
+
+Terminal Apps
+-------------
+
+- ### [Central Limit](https://github.com/AfaanBilal/central-limit)
+- ### [Sorting Visualizer](https://github.com/AfaanBilal/sorting-visualizer)
+
 
 GitHub Stats
 ------------
