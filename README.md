@@ -21,8 +21,6 @@ Connect
 
 ---
 
-&nbsp;
-
 # Open Source Portfolio
 
 <details>
