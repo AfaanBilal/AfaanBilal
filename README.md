@@ -21,6 +21,20 @@ Connect
 
 ## Open Source Portfolio
 
+### NPM Packages
+
+- [![Pulse JS](https://img.shields.io/npm/v/@afaanbilal/pulse?style=for-the-badge&logo=npm&label=pulse)](https://www.npmjs.com/package/@afaanbilal/pulse)
+- [![HyperDB JS](https://img.shields.io/npm/v/hyperdb-js?style=for-the-badge&logo=npm&label=hyperdb+js)](https://www.npmjs.com/package/hyperdb-js)
+- [![Random String](https://img.shields.io/npm/v/@afaanbilal/random-string?style=for-the-badge&logo=npm&label=Random+String)](https://www.npmjs.com/package/@afaanbilal/random-string)
+- [![RN Multitap](https://img.shields.io/npm/v/react-native-multitap?style=for-the-badge&logo=npm&label=react-native-multitap)](https://www.npmjs.com/package/react-native-multitap)
+- [![RN Pagination Dots](https://img.shields.io/npm/v/react-native-pagination-dots?style=for-the-badge&logo=npm&label=react-native-pagination-dots)](https://www.npmjs.com/package/react-native-pagination-dots)
+
+### Composer Packages
+
+- [![Laravel HasUUID](https://img.shields.io/packagist/v/afaanbilal/laravel-has-uuid?style=for-the-badge&logo=packagist&label=Laravel+Has+UUID)](https://packagist.org/packages/afaanbilal/laravel-has-uuid)
+- [![HyperDB PHP](https://img.shields.io/packagist/v/afaanbilal/hyperdb-php?style=for-the-badge&logo=packagist&label=hyperdb+php)](https://packagist.org/packages/afaanbilal/hyperdb-php)
+- [![Random String](https://img.shields.io/packagist/v/afaanbilal/php-random-string?style=for-the-badge&logo=packagist&label=random+string)](https://packagist.org/packages/afaanbilal/php-random-string)
+
 ### Databases
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
