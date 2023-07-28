@@ -24,7 +24,7 @@ Connect
 ## Open Source Portfolio
 
 <details>
-<summary>Databases</summary>
+<summary><h2>Databases</h2></summary>
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
@@ -37,7 +37,7 @@ Connect
 </details>
 
 <details>
-<summary>Mobile Apps</summary>
+<summary><h2>Mobile Apps</h2></summary>
 
 - [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
 - [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
@@ -46,7 +46,7 @@ Connect
 </details>
 
 <details>
-<summary>Web Frameworks</summary>
+<summary><h2>Web Frameworks</h2></summary>
 
 - [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
 - [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse)
@@ -54,7 +54,7 @@ Connect
 </details>
 
 <details>
-<summary>Web Apps</summary>
+<summary><h2>Web Apps</h2></summary>
 
 - [Open Source Summary (React)](https://oss.afaan.dev)
 - [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
@@ -69,7 +69,7 @@ Connect
 </details>
 
 <details>
-<summary>API Servers</summary>
+<summary><h2>API Servers</h2></summary>
 
 - [Whisper (Go)](https://github.com/AfaanBilal/whisper)
 - [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
@@ -79,7 +79,7 @@ Connect
 </details>
 
 <details>
-<summary>Terminal Apps</summary>
+<summary><h2>Terminal Apps</h2></summary>
 
 - [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
 - [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
@@ -102,7 +102,7 @@ Connect
 </details>
 
 <details>
-<summary>Windows Apps</summary>
+<summary><h2>Windows Apps</h2></summary>
 
 - [AMX TextEdit (C++)](https://github.com/AfaanBilal/AMX-TextEdit)
 - [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
@@ -114,7 +114,7 @@ Connect
 </details>
 
 <details>
-<summary>Guides</summary>
+<summary><h2>Guides</h2></summary>
 
 - [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
 - [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
