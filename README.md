@@ -116,7 +116,7 @@ Guides
 GitHub Stats
 ------------
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 500px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 500px;" />
 
 ---
 
