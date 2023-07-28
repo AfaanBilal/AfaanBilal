@@ -23,8 +23,8 @@ Connect
 
 ## Open Source Portfolio
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Databases</summary>
+<details>
+<summary>Databases</summary>
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
@@ -36,8 +36,8 @@ Connect
 - [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Mobile Apps</summary>
+<details>
+<summary>Mobile Apps</summary>
 
 - [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
 - [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
@@ -45,16 +45,16 @@ Connect
 - [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Web Frameworks</summary>
+<details>
+<summary>Web Frameworks</summary>
 
 - [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
 - [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse)
 - [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Web Apps</summary>
+<details>
+<summary>Web Apps</summary>
 
 - [Open Source Summary (React)](https://oss.afaan.dev)
 - [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
@@ -68,8 +68,8 @@ Connect
 - [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">API Servers</summary>
+<details>
+<summary>API Servers</summary>
 
 - [Whisper (Go)](https://github.com/AfaanBilal/whisper)
 - [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
@@ -78,8 +78,8 @@ Connect
 - [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Terminal Apps</summary>
+<details>
+<summary>Terminal Apps</summary>
 
 - [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
 - [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
@@ -101,8 +101,8 @@ Connect
 - [Hash Table (C)](https://github.com/AfaanBilal/hash-table)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Windows Apps</summary>
+<details>
+<summary>Windows Apps</summary>
 
 - [AMX TextEdit (C++)](https://github.com/AfaanBilal/AMX-TextEdit)
 - [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
@@ -113,8 +113,8 @@ Connect
 - [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)
 </details>
 
-<details style="font-size: 1.1rem;">
-<summary style="font-size: 1.2rem;">Guides</summary>
+<details>
+<summary>Guides</summary>
 
 - [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
 - [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
