@@ -21,19 +21,12 @@ Connect
 
 ---
 
-<h1 align="center">Open Source Portfolio</h1>
+&nbsp;
 
-Mobile Apps
-------------
+# Open Source Portfolio
 
-- [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
-- [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
-- [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt)
-- [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
-
-
-Databases
----------
+<details>
+<summary>Databases</summary>
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
@@ -43,16 +36,27 @@ Databases
 - [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs)
 - [HyperDB (PHP) Client](https://github.com/AfaanBilal/hyperdb-php)
 - [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py)
+</details>
 
-Web Frameworks
---------------
+<details>
+<summary>Mobile Apps</summary>
+
+- [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
+- [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
+- [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt)
+- [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
+</details>
+
+<details>
+<summary>Web Frameworks</summary>
 
 - [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
 - [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse)
 - [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo)
+</details>
 
-Web Apps
---------
+<details>
+<summary>Web Apps</summary>
 
 - [Open Source Summary (React)](https://oss.afaan.dev)
 - [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
@@ -64,18 +68,20 @@ Web Apps
 - [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)
 - [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
 - [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
+</details>
 
-API Servers
------------
+<details>
+<summary>API Servers</summary>
 
 - [Whisper (Go)](https://github.com/AfaanBilal/whisper)
 - [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
 - [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager)
 - [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore)
 - [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server)
+</details>
 
-Terminal Apps
--------------
+<details>
+<summary>Terminal Apps</summary>
 
 - [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
 - [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
@@ -95,9 +101,10 @@ Terminal Apps
 - [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections)
 - [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code)
 - [Hash Table (C)](https://github.com/AfaanBilal/hash-table)
+</details>
 
-Windows Apps
-------------
+<details>
+<summary>Windows Apps</summary>
 
 - [AMX TextEdit (C++)](https://github.com/AfaanBilal/AMX-TextEdit)
 - [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
@@ -106,12 +113,14 @@ Windows Apps
 - [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis)
 - [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe)
 - [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)
+</details>
 
-Guides
------
+<details>
+<summary>Guides</summary>
 
 - [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
 - [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
+</details>
 
 GitHub Stats
 ------------
