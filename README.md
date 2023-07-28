@@ -32,8 +32,20 @@ Connect
 ### Composer Packages
 
 - [![Laravel HasUUID](https://img.shields.io/packagist/v/afaanbilal/laravel-has-uuid?style=for-the-badge&logo=packagist&label=Laravel+Has+UUID)](https://packagist.org/packages/afaanbilal/laravel-has-uuid)
-- [![HyperDB PHP](https://img.shields.io/packagist/v/afaanbilal/hyperdb-php?style=for-the-badge&logo=packagist&label=hyperdb+php)](https://packagist.org/packages/afaanbilal/hyperdb-php)
 - [![Random String](https://img.shields.io/packagist/v/afaanbilal/php-random-string?style=for-the-badge&logo=packagist&label=random+string)](https://packagist.org/packages/afaanbilal/php-random-string)
+- [![HyperDB PHP](https://img.shields.io/packagist/v/afaanbilal/hyperdb-php?style=for-the-badge&logo=packagist&label=hyperdb+php)](https://packagist.org/packages/afaanbilal/hyperdb-php)
+
+### Go Packages
+
+- [![HyperDB Go](https://img.shields.io/github/go-mod/go-version/afaanbilal/hyperdb-go?style=for-the-badge&logo=go&label=hyperdb+go)](https://pkg.go.dev/github.com/AfaanBilal/hyperdb-go)
+
+### Rust Crates
+
+- [![HyperDB Rust](https://img.shields.io/crates/v/hyperdb-rs?style=for-the-badge&logo=rust&label=hyperdb+rs)](https://crates.io/crates/hyperdb-rs)
+
+### PyPi Packages
+
+- [![HyperDB Py](https://img.shields.io/pypi/v/hyperdb-py?style=for-the-badge&logo=python&label=hyperdb+py)](https://pypi.org/project/hyperdb-py/)
 
 ### Databases
 
