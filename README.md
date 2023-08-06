@@ -84,6 +84,10 @@ Connect
 - [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
 - [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
 
+### Languages
+
+- [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
+
 ### API Servers
 
 - [Whisper (Go)](https://github.com/AfaanBilal/whisper)
