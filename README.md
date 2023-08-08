@@ -119,7 +119,7 @@ Connect
 
 ### Windows Apps
 
-- [AMX TextEdit (C++)](https://github.com/AfaanBilal/AMX-TextEdit)
+- [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit)
 - [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
 - [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor)
 - [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture)
