@@ -47,6 +47,10 @@ Connect
 
 - [![HyperDB Py](https://img.shields.io/pypi/v/hyperdb-py?style=for-the-badge&logo=python&label=hyperdb+py)](https://pypi.org/project/hyperdb-py/)
 
+## Simulations
+
+- [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation)
+
 ### Databases
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
