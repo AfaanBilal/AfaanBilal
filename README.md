@@ -50,6 +50,7 @@ Connect
 ## Simulations
 
 - [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation)
+- [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions)
 
 ### Databases
 
