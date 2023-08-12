@@ -52,6 +52,10 @@ Connect
 - [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation)
 - [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions)
 - [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit)
+- [Game of Life (JS)](https://afaan.dev/game-of-life/)
+- [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)
+- [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)
+- [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
 
 ### Databases
 
@@ -83,11 +87,7 @@ Connect
 - [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
 - [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web)
 - [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)
-- [Game of Life (JS)](https://afaan.dev/game-of-life/)
-- [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)
-- [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)
 - [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)
-- [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
 - [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
 
 ### Languages
