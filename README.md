@@ -49,8 +49,8 @@ Connect
 
 ## Simulations
 
-- [OpenGL Testbench](https://github.com/AfaanBilal/OpenGLTestbench)
-- [OpenGL Triangle](https://github.com/AfaanBilal/OpenGLTriangle)
+- [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench)
+- [OpenGL Triangle (C++)](https://github.com/AfaanBilal/OpenGLTriangle)
 - [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation)
 - [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions)
 - [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit)
