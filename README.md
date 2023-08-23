@@ -68,15 +68,12 @@ Connect
 
 ## Simulations
 
-- [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench)
-- [OpenGL Triangle (C++)](https://github.com/AfaanBilal/OpenGLTriangle)
-- [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation)
-- [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions)
-- [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit)
-- [Game of Life (JS)](https://afaan.dev/game-of-life/)
-- [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)
-- [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)
-- [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)
+| [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench) | [OpenGL Triangle (C++)](https://github.com/AfaanBilal/OpenGLTriangle) |
+| :--- | :--- |
+| [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation) | [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions) |
+| [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit) | [Game of Life (JS)](https://afaan.dev/game-of-life/) |
+| [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion) | [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/) |
+| [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system) | |
 
 ### Databases
 
