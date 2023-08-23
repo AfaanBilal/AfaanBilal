@@ -137,13 +137,11 @@ Connect
 
 ### Windows Apps
 
-- [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit)
-- [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
-- [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor)
-- [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture)
-- [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis)
-- [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe)
-- [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)
+| [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit) | [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor) |
+| :--- | :--- |
+| [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor) | [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture) |
+| [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis) | [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe) |
+| [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp) | |
 
 ### Guides
 
