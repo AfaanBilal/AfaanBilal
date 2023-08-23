@@ -88,25 +88,20 @@ Connect
 
 ### Mobile Apps
 
-- [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
-- [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)
-- [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt)
-- [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
+| [OneDua (React Native)](https://github.com/AfaanBilal/one-dua) | [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app) |
+| :--- | :--- |
+| [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt) | [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android) |
 
 ### Web Frameworks
 
-- [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
-- [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse)
-- [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo)
+| [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs) | [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse) | [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo) |
+| :--- | :--- | :--- |
 
 ### Web Apps
 
-- [Open Source Summary (React)](https://oss.afaan.dev)
-- [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)
-- [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web)
-- [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)
-- [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)
-- [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
+| [Open Source Summary (React)](https://oss.afaan.dev) | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/) | [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) |
+| :--- | :--- | :--- |
+| [Books and Games (SolidJS)](https://afaan.dev/books-and-games/) | [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter) | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
 
 ### Languages
 
@@ -153,8 +148,8 @@ Connect
 
 ### Guides
 
-- [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
-- [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
+| [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb) | [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/) |
+| :--- | :--- |
 
 GitHub Stats
 ------------
