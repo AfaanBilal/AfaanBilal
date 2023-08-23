@@ -21,31 +21,50 @@ Connect
 
 ## Open Source Portfolio
 
-### NPM Packages
+<table>
+    <thead>
+        <td colspan="3"><b>NPM Packages</b></td>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://www.npmjs.com/package/@afaanbilal/pulse" target="_blank"><img src="https://img.shields.io/npm/v/@afaanbilal/pulse?style=for-the-badge&logo=npm&label=pulse" alt="Pulse JS" /></a></td>
+            <td><a href="https://www.npmjs.com/package/@afaanbilal/random-string" target="_blank"><img src="https://img.shields.io/npm/v/@afaanbilal/random-string?style=for-the-badge&logo=npm&label=Random+String" alt="Random String" /></a></td>
+            <td><a href="https://www.npmjs.com/package/hyperdb-js" target="_blank"><img src="https://img.shields.io/npm/v/hyperdb-js?style=for-the-badge&logo=npm&label=hyperdb+js" alt="HyperDB JS" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://www.npmjs.com/package/react-native-multitap" target="_blank"><img src="https://img.shields.io/npm/v/react-native-multitap?style=for-the-badge&logo=npm&label=react-native-multitap" alt="RN Multitap" /></a></td>
+            <td><a href="https://www.npmjs.com/package/react-native-pagination-dots" target="_blank"><img src="https://img.shields.io/npm/v/react-native-pagination-dots?style=for-the-badge&logo=npm&label=react-native-pagination-dots" alt="RN Pagination Dots" /></a></td>
+        </tr>
+    </tbody>
+</table>
 
-- [![Pulse JS](https://img.shields.io/npm/v/@afaanbilal/pulse?style=for-the-badge&logo=npm&label=pulse)](https://www.npmjs.com/package/@afaanbilal/pulse)
-- [![HyperDB JS](https://img.shields.io/npm/v/hyperdb-js?style=for-the-badge&logo=npm&label=hyperdb+js)](https://www.npmjs.com/package/hyperdb-js)
-- [![Random String](https://img.shields.io/npm/v/@afaanbilal/random-string?style=for-the-badge&logo=npm&label=Random+String)](https://www.npmjs.com/package/@afaanbilal/random-string)
-- [![RN Multitap](https://img.shields.io/npm/v/react-native-multitap?style=for-the-badge&logo=npm&label=react-native-multitap)](https://www.npmjs.com/package/react-native-multitap)
-- [![RN Pagination Dots](https://img.shields.io/npm/v/react-native-pagination-dots?style=for-the-badge&logo=npm&label=react-native-pagination-dots)](https://www.npmjs.com/package/react-native-pagination-dots)
+<table>
+    <thead>
+        <td colspan="3"><b>Composer Packages</b></td>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://packagist.org/packages/afaanbilal/laravel-has-uuid" target="_blank"><img src="https://img.shields.io/packagist/v/afaanbilal/laravel-has-uuid?style=for-the-badge&logo=packagist&label=Laravel+Has+UUID" alt="Laravel HasUUID" /></a></td>
+            <td><a href="https://packagist.org/packages/afaanbilal/php-random-string" target="_blank"><img src="https://img.shields.io/packagist/v/afaanbilal/php-random-string?style=for-the-badge&logo=packagist&label=random+string" alt="Random String" /></a></td>
+            <td><a href="https://packagist.org/packages/afaanbilal/hyperdb-php" target="_blank"><img src="https://img.shields.io/packagist/v/afaanbilal/hyperdb-php?style=for-the-badge&logo=packagist&label=hyperdb+php" alt="HyperDB PHP" /></a></td>
+        </tr>
+    </tbody>
+</table>
 
-### Composer Packages
-
-- [![Laravel HasUUID](https://img.shields.io/packagist/v/afaanbilal/laravel-has-uuid?style=for-the-badge&logo=packagist&label=Laravel+Has+UUID)](https://packagist.org/packages/afaanbilal/laravel-has-uuid)
-- [![Random String](https://img.shields.io/packagist/v/afaanbilal/php-random-string?style=for-the-badge&logo=packagist&label=random+string)](https://packagist.org/packages/afaanbilal/php-random-string)
-- [![HyperDB PHP](https://img.shields.io/packagist/v/afaanbilal/hyperdb-php?style=for-the-badge&logo=packagist&label=hyperdb+php)](https://packagist.org/packages/afaanbilal/hyperdb-php)
-
-### Go Packages
-
-- [![HyperDB Go](https://img.shields.io/github/go-mod/go-version/afaanbilal/hyperdb-go?style=for-the-badge&logo=go&label=hyperdb+go)](https://pkg.go.dev/github.com/AfaanBilal/hyperdb-go)
-
-### Rust Crates
-
-- [![HyperDB Rust](https://img.shields.io/crates/v/hyperdb-rs?style=for-the-badge&logo=rust&label=hyperdb+rs)](https://crates.io/crates/hyperdb-rs)
-
-### PyPi Packages
-
-- [![HyperDB Py](https://img.shields.io/pypi/v/hyperdb-py?style=for-the-badge&logo=python&label=hyperdb+py)](https://pypi.org/project/hyperdb-py/)
+<table>
+    <thead>
+        <td><b>Go Packages</b></td>
+        <td><b>Rust Crates</b></td>
+        <td><b>PyPi Packages</b></td>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://pkg.go.dev/github.com/AfaanBilal/hyperdb-go" target="_blank"><img src="https://img.shields.io/github/go-mod/go-version/afaanbilal/hyperdb-go?style=for-the-badge&logo=go&label=hyperdb+go" alt="HyperDB Go" /></a></td>
+            <td><a href="https://crates.io/crates/hyperdb-rs" target="_blank"><img src="https://img.shields.io/crates/v/hyperdb-rs?style=for-the-badge&logo=rust&label=hyperdb+rs" alt="HyperDB Rust" /></a></td>
+            <td><a href="https://pypi.org/project/hyperdb-py/" target="_blank"><img src="https://img.shields.io/pypi/v/hyperdb-py?style=for-the-badge&logo=python&label=hyperdb+py" alt="HyperDB Py" /></a></td>
+        </tr>
+    </tbody>
+</table>
 
 ## Simulations
 
