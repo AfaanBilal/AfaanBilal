@@ -96,9 +96,10 @@ Connect
 
 ### Web Apps
 
-| [Open Source Summary (React)](https://oss.afaan.dev) | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/) | [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) |
-| :--- | :--- | :--- |
-| [Books and Games (SolidJS)](https://afaan.dev/books-and-games/) | [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter) | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
+| [Open Source Summary (React)](https://oss.afaan.dev) | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/) |
+| :--- | :--- |
+| [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) | [Books and Games (SolidJS)](https://afaan.dev/books-and-games/) | 
+| [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter) | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
 
 ### Languages
 
