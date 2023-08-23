@@ -33,7 +33,7 @@ Connect
         </tr>
         <tr>
             <td><a href="https://www.npmjs.com/package/react-native-multitap" target="_blank"><img src="https://img.shields.io/npm/v/react-native-multitap?style=for-the-badge&logo=npm&label=react-native-multitap" alt="RN Multitap" /></a></td>
-            <td><a href="https://www.npmjs.com/package/react-native-pagination-dots" target="_blank"><img src="https://img.shields.io/npm/v/react-native-pagination-dots?style=for-the-badge&logo=npm&label=react-native-pagination-dots" alt="RN Pagination Dots" /></a></td>
+            <td colspan="2"><a href="https://www.npmjs.com/package/react-native-pagination-dots" target="_blank"><img src="https://img.shields.io/npm/v/react-native-pagination-dots?style=for-the-badge&logo=npm&label=react-native-pagination-dots" alt="RN Pagination Dots" /></a></td>
         </tr>
     </tbody>
 </table>
