@@ -113,24 +113,16 @@ Connect
 
 ### Terminal Apps
 
-- [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
-- [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
-- [Run Length Encoding (C++)](https://github.com/AfaanBilal/run-length-encoding)
-- [Race to 32768 (C++)](https://github.com/AfaanBilal/race-to-32768)
-- [21 Flags (C++)](https://github.com/AfaanBilal/21-flags)
-- [Console Shapes (C++)](https://github.com/AfaanBilal/console-shapes)
-- [Hangman (C++)](https://github.com/AfaanBilal/hangman)
-- [I-Beam Analysis (Python)](https://github.com/AfaanBilal/I-beam)
-- [Linear Equations Solver (Python)](https://github.com/AfaanBilal/linear-equations-solver)
-- [Word Permutations (Python)](https://github.com/AfaanBilal/py-word-permutations)
-- [Word Permutations (C)](https://github.com/AfaanBilal/word-permutations)
-- [Base Converter (C)](https://github.com/AfaanBilal/c-base-converter)
-- [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption)
-- [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console)
-- [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator)
-- [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections)
-- [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code)
-- [Hash Table (C)](https://github.com/AfaanBilal/hash-table)
+| [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit) | [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer) |
+| :--- | :--- |
+| [Run Length Encoding (C++)](https://github.com/AfaanBilal/run-length-encoding) | [Race to 32768 (C++)](https://github.com/AfaanBilal/race-to-32768) |
+| [21 Flags (C++)](https://github.com/AfaanBilal/21-flags) | [Console Shapes (C++)](https://github.com/AfaanBilal/console-shapes) |
+| [Hangman (C++)](https://github.com/AfaanBilal/hangman) | [I-Beam Analysis (Python)](https://github.com/AfaanBilal/I-beam) |
+| [Linear Equations Solver (Python)](https://github.com/AfaanBilal/linear-equations-solver) | [Word Permutations (Python)](https://github.com/AfaanBilal/py-word-permutations) |
+| [Word Permutations (C)](https://github.com/AfaanBilal/word-permutations) | [Base Converter (C)](https://github.com/AfaanBilal/c-base-converter) |
+| [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption) | [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console) |
+| [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator) | [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections) |
+| [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code) | [Hash Table (C)](https://github.com/AfaanBilal/hash-table) |
 
 ### Windows Apps
 
