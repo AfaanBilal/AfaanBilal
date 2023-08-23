@@ -80,14 +80,11 @@ Connect
 
 ### Databases
 
-- [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)
-- [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
-- [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli)
-- [HyperDB (JS) Client](https://github.com/AfaanBilal/hyperdb-js)
-- [HyperDB (Go) Client](https://github.com/AfaanBilal/hyperdb-go)
-- [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs)
-- [HyperDB (PHP) Client](https://github.com/AfaanBilal/hyperdb-php)
-- [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py)
+| [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) | [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/) |
+| :--- | :--- |
+| [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) | [HyperDB (JS) Client](https://github.com/AfaanBilal/hyperdb-js) |
+| [HyperDB (Go) Client](https://github.com/AfaanBilal/hyperdb-go) | [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs) |
+| [HyperDB (PHP) Client](https://github.com/AfaanBilal/hyperdb-php) | [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py) |
 
 ### Mobile Apps
 
