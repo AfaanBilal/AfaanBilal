@@ -109,11 +109,10 @@ Connect
 
 ### API Servers
 
-- [Whisper (Go)](https://github.com/AfaanBilal/whisper)
-- [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
-- [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager)
-- [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore)
-- [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server)
+| [Whisper (Go)](https://github.com/AfaanBilal/whisper) | [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server) |
+| :--- | :--- |
+| [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager) | [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore) | 
+| [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server) | |
 
 ### Terminal Apps
 
