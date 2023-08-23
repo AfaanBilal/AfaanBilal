@@ -91,7 +91,7 @@ Connect
 
 ### Web Frameworks
 
-| [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs) | [Pulse Mini Demo (TypeScript POC)](https://github.com/AfaanBilal/pulse) | [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo) |
+| [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs) | [Pulse Mini Demo (TypeScript)](https://github.com/AfaanBilal/pulse) | [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo) |
 | :--- | :--- | :--- |
 
 ### Web Apps
