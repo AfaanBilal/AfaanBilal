@@ -22,7 +22,6 @@ Connect
 
 ## Open Source Portfolio
 
-
 <table>
     <thead>
         <td colspan="3"><b>NPM Packages</b></td>
