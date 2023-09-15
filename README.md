@@ -20,7 +20,6 @@ Connect
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
 
 ## Open Source Portfolio
-
 <table>
     <thead>
         <td colspan="3"><b>NPM Packages</b></td>
