@@ -62,76 +62,76 @@ Connect
 
 ### Simulations
 
-| [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench) | [OpenGL Triangle (C++)](https://github.com/AfaanBilal/OpenGLTriangle) |
-| :--- | :--- |
+| [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench)                    | [OpenGL Triangle (C++)](https://github.com/AfaanBilal/OpenGLTriangle)                        |
+| :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- |
 | [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation) | [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions) |
-| [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit) | [Game of Life (JS)](https://afaan.dev/game-of-life/) |
-| [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion) | [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/) |
-| [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system) | |
+| [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit)                | [Game of Life (JS)](https://afaan.dev/game-of-life/)                                         |
+| [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)                    | [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)                        |
+| [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)            | [Lumina (Vue)](https://lumina.afaan.dev)                                                     |
 
 ### Databases
 
-| [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) | [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/) |
-| :--- | :--- |
-| [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) | [HyperDB (JS) Client](https://github.com/AfaanBilal/hyperdb-js) |
-| [HyperDB (Go) Client](https://github.com/AfaanBilal/hyperdb-go) | [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs) |
+| [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb)           | [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)             |
+| :---------------------------------------------------------------- | :------------------------------------------------------------------ |
+| [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli)   | [HyperDB (JS) Client](https://github.com/AfaanBilal/hyperdb-js)     |
+| [HyperDB (Go) Client](https://github.com/AfaanBilal/hyperdb-go)   | [HyperDB (Rust) Client](https://github.com/AfaanBilal/hyperdb-rs)   |
 | [HyperDB (PHP) Client](https://github.com/AfaanBilal/hyperdb-php) | [HyperDB (Python) Client](https://github.com/AfaanBilal/hyperdb-py) |
 
 ### Mobile Apps
 
-| [OneDua (React Native)](https://github.com/AfaanBilal/one-dua) | [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app) |
-| :--- | :--- |
+| [OneDua (React Native)](https://github.com/AfaanBilal/one-dua) | [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)                       |
+| :------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
 | [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt) | [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android) |
 
 ### Web Frameworks
 
 | [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs) | [Pulse Mini Demo (TypeScript)](https://github.com/AfaanBilal/pulse) | [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo) |
-| :--- | :--- | :--- |
+| :------------------------------------------------------------ | :------------------------------------------------------------------ | :------------------------------------------------------------------ |
 
 ### Web Apps
 
-| [Open Source Summary (React)](https://oss.afaan.dev) | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/) |
-| :--- | :--- |
-| [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) | [Books and Games (SolidJS)](https://afaan.dev/books-and-games/) | 
-| [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter) | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
+| [Open Source Summary (React)](https://oss.afaan.dev)                                      | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)               |
+| :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
+| [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) | [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)     |
+| [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)                     | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
 
 ### Languages
 
 | [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) |
-| :--- |
+| :------------------------------------------------------- |
 
 ### API Servers
 
-| [Whisper (Go)](https://github.com/AfaanBilal/whisper) | [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server) |
-| :--- | :--- |
-| [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager) | [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore) | 
-| [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server) | |
+| [Whisper (Go)](https://github.com/AfaanBilal/whisper)                                | [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server) |
+| :----------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| [Task Manager (Laravel)](https://github.com/AfaanBilal/task-manager)                 | [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore)                |
+| [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server) |                                                                                     |
 
 ### Terminal Apps
 
-| [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit) | [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer) |
-| :--- | :--- |
-| [Run Length Encoding (C++)](https://github.com/AfaanBilal/run-length-encoding) | [Race to 32768 (C++)](https://github.com/AfaanBilal/race-to-32768) |
-| [21 Flags (C++)](https://github.com/AfaanBilal/21-flags) | [Console Shapes (C++)](https://github.com/AfaanBilal/console-shapes) |
-| [Hangman (C++)](https://github.com/AfaanBilal/hangman) | [I-Beam Analysis (Python)](https://github.com/AfaanBilal/I-beam) |
-| [Linear Equations Solver (Python)](https://github.com/AfaanBilal/linear-equations-solver) | [Word Permutations (Python)](https://github.com/AfaanBilal/py-word-permutations) |
-| [Word Permutations (C)](https://github.com/AfaanBilal/word-permutations) | [Base Converter (C)](https://github.com/AfaanBilal/c-base-converter) |
-| [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption) | [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console) |
-| [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator) | [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections) |
-| [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code) | [Hash Table (C)](https://github.com/AfaanBilal/hash-table) |
+| [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)                       | [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)           |
+| :---------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| [Run Length Encoding (C++)](https://github.com/AfaanBilal/run-length-encoding)            | [Race to 32768 (C++)](https://github.com/AfaanBilal/race-to-32768)                      |
+| [21 Flags (C++)](https://github.com/AfaanBilal/21-flags)                                  | [Console Shapes (C++)](https://github.com/AfaanBilal/console-shapes)                    |
+| [Hangman (C++)](https://github.com/AfaanBilal/hangman)                                    | [I-Beam Analysis (Python)](https://github.com/AfaanBilal/I-beam)                        |
+| [Linear Equations Solver (Python)](https://github.com/AfaanBilal/linear-equations-solver) | [Word Permutations (Python)](https://github.com/AfaanBilal/py-word-permutations)        |
+| [Word Permutations (C)](https://github.com/AfaanBilal/word-permutations)                  | [Base Converter (C)](https://github.com/AfaanBilal/c-base-converter)                    |
+| [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption)     | [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console)              |
+| [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator)     | [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections) |
+| [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code)                        | [Hash Table (C)](https://github.com/AfaanBilal/hash-table)                              |
 
 ### Windows Apps
 
-| [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit) | [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor) |
-| :--- | :--- |
-| [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor) | [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture) |
-| [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis) | [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe) |
-| [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp) | |
+| [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit)     | [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)         |
+| :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
+| [Host Editor (C#)](https://github.com/AfaanBilal/Host-Editor)                   | [Timed Screen Capture (C#)](https://github.com/AfaanBilal/Timed-Screen-Capture) |
+| [Statistical Analysis (C#)](https://github.com/AfaanBilal/Statistical-Analysis) | [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe)                   |
+| [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)              |                                                                                 |
 
 ### Guides
 
 | [Hamming Codes](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb) | [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/) |
-| :--- | :--- |
+| :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- |
 
 GitHub Stats
 ------------
@@ -156,7 +156,7 @@ GitHub Stats
 </div>
 
 Tech Stack
-----------  
+----------
 <p style="display: flex; width: 100%;">
     <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=96&color=currentColor" alt="Amazonwebservices" title="Amazonwebservices" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="Digitalocean" title="Digitalocean" width="50px" style="margin: 18px;">
