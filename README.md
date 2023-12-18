@@ -159,7 +159,7 @@ GitHub Stats
 
 <div align="center">
 
-[![Afaan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AfaanBilal&theme=react-dark&custom_title=Afaan%27s%20Contributions)](https://afaan.dev)
+[![Afaan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AfaanBilal&theme=react-dark&custom_title=Afaan%27s%20Contributions&radius=10)](https://afaan.dev)
 
 </div>
 
