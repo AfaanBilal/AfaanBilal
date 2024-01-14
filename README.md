@@ -78,9 +78,9 @@ Connect
 
 ### Mobile Apps
 
-| [OneDua (React Native)](https://github.com/AfaanBilal/one-dua) | [Meeqat (React Native)](https://github.com/AfaanBilal/meeqat)                             | [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app) |
-| :------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt) | [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android) |                                                                     |
+| [OneDua (React Native)](https://github.com/AfaanBilal/one-dua) | [Meeqat (React Native)](https://github.com/AfaanBilal/meeqat)  | [Whisper (React Native)](https://github.com/AfaanBilal/whisper-app)                       |
+| :------------------------------------------------------------- | :------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [FxRate (React Native)](https://github.com/AfaanBilal/fxrate)  | [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt) | [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android) |
 
 ### Web Frameworks
 
