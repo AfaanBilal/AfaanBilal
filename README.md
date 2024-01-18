@@ -118,6 +118,7 @@ Connect
 | [Symmetric Encryption (C)](https://github.com/AfaanBilal/simple-symmetric-encryption)     | [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp-console)              |
 | [Markov Text Generator (Python)](https://github.com/AfaanBilal/markov-text-generator)     | [DSS Bolted Connections (Python)](https://github.com/AfaanBilal/dss-bolted-connections) |
 | [Morse Code (Python)](https://github.com/AfaanBilal/py-morse-code)                        | [Hash Table (C)](https://github.com/AfaanBilal/hash-table)                              |
+| [Timing Attacks (C)](https://github.com/AfaanBilal/timing-attacks)                        |                                                                                         |
 
 ### Windows Apps
 
