@@ -96,8 +96,8 @@ Connect
 
 ### Languages
 
-| [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) |
-| :------------------------------------------------------- |
+| [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) | [Koshur Online](https://koshur.afaan.dev) |
+| :------------------------------------------------------- | ----------------------------------------- |
 
 ### API Servers
 
