@@ -66,7 +66,7 @@ Connect
 | [Verlet Simulation (Double Pendulum) (C)](https://github.com/AfaanBilal/Verlet-Simulation) | [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions) |
 | [Central Limit Theorem (Rust)](https://github.com/AfaanBilal/central-limit)                | [Game of Life (JS)](https://afaan.dev/game-of-life/)                                         |
 | [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)                    | [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)                        |
-| [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)            | [Lumina (Vue + Typescript)](https://lumina.afaan.dev)                                        |
+| [Solar System (Rust + Bevy + WASM)](https://github.com/AfaanBilal/solar-system)            |                                                                                              |
 
 ### Databases
 
@@ -89,8 +89,9 @@ Connect
 
 ### Web Apps
 
-| [Open Source Summary (React)](https://oss.afaan.dev)                                      | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)               |
+| [Lumina (Vue + Typescript)](https://lumina.afaan.dev)                                     | [Open Source Summary (React)](https://oss.afaan.dev)                |
 | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
+| [ABACUS (Vue + Typescript)](https://abacus.afaan.dev)                                     | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)               |
 | [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) | [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)     |
 | [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)                     | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
 
