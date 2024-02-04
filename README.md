@@ -94,6 +94,7 @@ Connect
 | [ABACUS (Vue + Typescript)](https://abacus.afaan.dev)                                     | [Solid-talk (SolidJS)](https://afaan.dev/solid-talk/)               |
 | [Iron Guard Inventory Management (SolidJS)](https://github.com/AfaanBilal/iron-guard-web) | [Books and Games (SolidJS)](https://afaan.dev/books-and-games/)     |
 | [Counter (Rust + WASM)](https://github.com/AfaanBilal/simple-counter)                     | [Secure Message (JS)](https://github.com/AfaanBilal/secure-message) |
+| [Suna Hai (Vue + Typescript)](https://suna-hai.afaan.dev)                                 |                                                                     |
 
 ### Languages
 
