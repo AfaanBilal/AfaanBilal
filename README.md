@@ -7,7 +7,6 @@ I work as a **Senior Software Development Engineer** at **[Centiment](https://ww
 Connect
 -------
 
-
 [![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
 [![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://amx.gg)
 
