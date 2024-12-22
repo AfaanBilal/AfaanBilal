@@ -9,12 +9,11 @@ Connect
 -------
 
 [![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
-[![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://amx.gg)
+[![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://blog.afaan.dev)
 
 [![Afaan's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaanbilal)
 [![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
 [![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
-
 
 ## My Courses
 
@@ -59,7 +58,6 @@ Connect
         </tr>
     </tbody>
 </table>
-
 
 ### Simulations
 
@@ -151,6 +149,7 @@ GitHub Stats
 <!-- <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afaan's GitHub Stats" style="width: 100%" /></div>
 
 ---
+
 -->
 
 <div align="center">
@@ -177,7 +176,7 @@ Tech Stack
     <img src="https://icongr.am/devicon/github-original.svg?size=96&color=currentColor" alt="Github" title="Github" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/gitlab-original.svg?size=96&color=currentColor" alt="Gitlab" title="Gitlab" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/go-original.svg?size=96&color=currentColor" alt="Go" title="Go" width="50px" style="margin: 18px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" title="Rust" width="50px" style="margin: 18px;">
+    <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="Rust" title="Rust" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" title="PHP" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" title="Composer" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/laravel-plain.svg?size=96&color=ff2d20" alt="Laravel" title="Laravel" width="50px" style="margin: 18px;">
@@ -203,7 +202,6 @@ Tech Stack
     <img src="https://icongr.am/devicon/nodejs-original.svg?size=96&color=currentColor" alt="NodeJS" title="NodeJS" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=96&color=green" alt="Express" title="Express" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/sequelize-original.svg?size=96&color=currentColor" alt="Sequelize" title="Sequelize" width="50px" style="margin: 18px;">
-    <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="SolidJS" title="SolidJS" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/vuejs-original.svg?size=96&color=currentColor" alt="VueJS" title="VueJS" width="50px" style="margin: 18px;">
     <img src="https://icongr.am/devicon/react-original.svg?size=96&color=currentColor" alt="React" title="React" width="50px" style="margin: 18px;">
     <img src="https://afaan.dev/assets/react-native.svg" alt="React Native" title="React Native" width="50px" style="margin: 18px;">
@@ -226,5 +224,4 @@ Tech Stack
     <img src="https://icongr.am/devicon/trello-plain.svg?size=96&color=026aa7" alt="Trello" title="Trello" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="50px" style="margin: 18px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" title="NestJS" width="50px" style="margin: 18px;">
 </p>
