@@ -17,6 +17,7 @@ Connect
 
 ## My Courses
 
+- ### [Creating an API server in Rust with Actix, SQLx and JWT by Afaan Bilal](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)
 - ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
 
