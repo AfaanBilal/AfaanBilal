@@ -138,7 +138,7 @@ Connect
 GitHub Stats
 ------------
 
-<img src="https://streak-stats.demolab.com/?user=AfaanBilal&theme=radical" alt="Afaan's GitHub Streak" style="width: 500px;" />
+<img src="https://streak-stats.demolab.com/?user=AfaanBilal&theme=radical&cb=220225" alt="Afaan's GitHub Streak" style="width: 500px;" />
 
 ---
 
