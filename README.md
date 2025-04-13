@@ -2,7 +2,7 @@
 
 #### I'm **Afaan Bilal**, a Software Engineer from Baramulla, Kashmir.
 
-I work as a **Senior Software Development Engineer** at **[Centiment](https://www.centiment.co)**
+I work as a **Senior Software Development Engineer / CISO** at **[Centiment](https://www.centiment.co)**
 
 Connect
 -------
