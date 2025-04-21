@@ -4,6 +4,7 @@
 
 I work as a **Senior Software Development Engineer / CISO** at **[Centiment](https://www.centiment.co)**
 
+
 Connect
 -------
 
