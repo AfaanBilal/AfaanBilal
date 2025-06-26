@@ -49,14 +49,14 @@ Here are some of my favorite open source projects and what makes them special:
 
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
 
-<img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang">
+<img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
 
 > The first programming language for the Kashmiri language.  
 > - **Why it matters:** Promotes regional language technology and education.
 
 ### [Whisper](https://github.com/AfaanBilal/whisper-app)
 
-<img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper">
+<img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" height="500px" />
 
 > Open-source microblogging.  
 > - **Built with:** React Native + Go
@@ -75,7 +75,7 @@ Here are some of my favorite open source projects and what makes them special:
 
 ### [Lumina](https://github.com/AfaanBilal/lumina)
 
-<img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" width="100%" />
+<img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" height="500px" />
 
 > An open-source, privacy-friendly, and customizable personal spreadsheet.  
 > - **Built with:** Vue + TypeScript  
