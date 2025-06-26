@@ -1,18 +1,30 @@
-### Hey! 👋
+<h1 align="center">Hey 👋, I'm Afaan Bilal!</h1>
+<p align="center">
+  <b>Senior Software Engineer | OSS Enthusiast | Educator | CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
+  <i>Building robust software, sharing knowledge, and making tech accessible.</i>
+</p>
 
-#### I'm **Afaan Bilal**, a Software Engineer from Baramulla, Kashmir.
+<p align="center">
+  <a href="https://afaan.dev"><img src="https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge" alt="Afaan's Portfolio"></a>
+  <a href="https://blog.afaan.dev"><img src="https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge" alt="Afaan's Blog"></a>
+  <a href="https://www.linkedin.com/in/afaanbilal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Afaan's LinkedIn"></a>
+  <a href="https://afaan.medium.com"><img src="https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Afaan's Medium"></a>
+  <a href="https://www.twitter.com/AfaanBilal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Afaan's Twitter"></a>
+</p>
 
-I work as a **Senior Software Development Engineer, CISO** at **[Centiment](https://www.centiment.co)**
+---
 
-Connect
--------
+## 👨‍💻 About Me
 
-[![Afaan's Portfolio](https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge)](https://afaan.dev)
-[![Afaan's Blog](https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge)](https://blog.afaan.dev)
+- 🔒 Senior Software Development Engineer & CISO at [Centiment](https://www.centiment.co)
+- 🌱 Passionate about Rust, Go, security, and teaching others
+- 🏆 OSS contributor and creator of [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
+- 🎓 Instructor on Udemy ([see my courses](#my-courses))
+- ✍️ Blogging at [blog.afaan.dev](https://blog.afaan.dev) and [amx.gg](https://amx.gg)
+- 💬 Ask me about open source, backend, or security
+- 🌐 [afaan.dev](https://afaan.dev) | [LinkedIn](https://www.linkedin.com/in/afaanbilal) | [Medium](https://afaan.medium.com)
 
-[![Afaan's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaanbilal)
-[![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
-[![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
+---
 
 ## My Courses
 
