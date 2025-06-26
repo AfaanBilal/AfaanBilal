@@ -76,8 +76,6 @@ Here are some of my favorite open source projects and what makes them special:
 
 ---
 
----
-
 ## 🌍 Open Source Portfolio
 
 I love building and sharing tools for developers, learners, and creators. Here’s a peek at some of my published packages, libraries, and apps—many of which are cross-platform and community-driven!
@@ -98,8 +96,7 @@ I love building and sharing tools for developers, learners, and creators. Here�
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) – NoSQL DB core  
 - [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) – CLI client  
-- [HyperDB Clients:](https://github.com/AfaanBilal?tab=repositories&q=hyperdb)  
-  [JavaScript](https://github.com/AfaanBilal/hyperdb-js) | [Go](https://github.com/AfaanBilal/hyperdb-go) | [PHP](https://github.com/AfaanBilal/hyperdb-php) | [Python](https://github.com/AfaanBilal/hyperdb-py) | [Rust](https://github.com/AfaanBilal/hyperdb-rs)
+- [HyperDB Clients:](https://github.com/AfaanBilal?tab=repositories&q=hyperdb) [JavaScript](https://github.com/AfaanBilal/hyperdb-js) | [Go](https://github.com/AfaanBilal/hyperdb-go) | [PHP](https://github.com/AfaanBilal/hyperdb-php) | [Python](https://github.com/AfaanBilal/hyperdb-py) | [Rust](https://github.com/AfaanBilal/hyperdb-rs)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
 
 ---
