@@ -19,18 +19,52 @@
 - 🔒 Senior Software Development Engineer & CISO at [Centiment](https://www.centiment.co)
 - 🌱 Passionate about Rust, Go, security, and teaching others
 - 🏆 OSS contributor and creator of [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
-- 🎓 Instructor on Udemy ([see my courses](#my-courses))
+- 🎓 Instructor on Udemy (see my courses below)
 - ✍️ Blogging at [blog.afaan.dev](https://blog.afaan.dev) and [amx.gg](https://amx.gg)
 - 💬 Ask me about open source, backend, or security
 - 🌐 [afaan.dev](https://afaan.dev) | [LinkedIn](https://www.linkedin.com/in/afaanbilal) | [Medium](https://afaan.medium.com)
 
 ---
 
-## My Courses
+## 🎓 My Courses
 
 - ### [Creating an API server in Rust with Actix, SQLx and JWT by Afaan Bilal](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)
 - ### [Creating an API server in Rust with Rocket, SeaORM and JWT by Afaan Bilal](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)
 - ### [Creating a REST API server with PHP, Laravel and MySQL by Afaan Bilal](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)
+
+---
+
+## 🏆 Featured Projects
+
+Here are some of my favorite open source projects and what makes them special:
+
+### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
+> The first programming language for the Kashmiri language.  
+> - **Why it matters:** Promotes regional language technology and education.
+
+### [HyperDB](https://github.com/AfaanBilal/hyperdb)
+> A fast, lightweight, and embeddable NoSQL database written in Rust.  
+> - **Multi-language clients:** Rust, Go, Python, PHP, JS  
+> - **Focus:** Simplicity, performance, and cross-platform usage  
+> - **Why it matters:** Enables rapid prototyping and production use for modern apps.
+
+### [PulseJS](https://github.com/AfaanBilal/pulsejs)
+> A tiny, reactive state management library for JavaScript & TypeScript.  
+> - **Intuitive API**, inspired by modern frameworks  
+> - **Lightweight** and fast  
+> - **Used in:** personal and community web projects
+
+### [OneDua](https://github.com/AfaanBilal/one-dua)
+> A beautiful, cross-platform dua (supplication) app built with React Native.  
+> - **Features:** Search, favorites, reminders, multi-language  
+> - **Why it matters:** Helps users connect spiritually worldwide.
+
+### [Lumina](https://github.com/AfaanBilal/lumina)
+> An open-source, privacy-friendly, and customizable personal dashboard.  
+> - **Built with:** Vue + TypeScript  
+> - **Focus:** Productivity and self-hosting
+
+---
 
 ## Open Source Portfolio
 
