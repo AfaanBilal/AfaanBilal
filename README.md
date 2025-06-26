@@ -67,6 +67,9 @@ Here are some of my favorite open source projects and what makes them special:
 > - **Used in:** personal and community web projects
 
 ### [OneDua](https://github.com/AfaanBilal/one-dua)
+
+<img src="https://github.com/AfaanBilal/one-dua/raw/master/screenshots/one-dua.png" width="100%" />
+
 > A beautiful, cross-platform dua (supplication) app built with React Native.  
 > - **Features:** Search, favorites, reminders, multi-language  
 > - **Why it matters:** Helps users connect spiritually worldwide.
