@@ -48,6 +48,9 @@ I love sharing knowledge with the community! Here are some of the courses I’ve
 Here are some of my favorite open source projects and what makes them special:
 
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
+
+<img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang">
+
 > The first programming language for the Kashmiri language.  
 > - **Why it matters:** Promotes regional language technology and education.
 
