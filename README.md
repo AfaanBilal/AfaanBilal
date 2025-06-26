@@ -54,6 +54,13 @@ Here are some of my favorite open source projects and what makes them special:
 > The first programming language for the Kashmiri language.  
 > - **Why it matters:** Promotes regional language technology and education.
 
+### [Whisper](https://github.com/AfaanBilal/whisper-app)
+
+<img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper">
+
+> Open-source microblogging.  
+> - **Built with:** React Native + Go
+
 ### [HyperDB](https://github.com/AfaanBilal/hyperdb)
 > A fast, lightweight, and embeddable NoSQL database written in Rust.  
 > - **Multi-language clients:** Rust, Go, Python, PHP, JS  
