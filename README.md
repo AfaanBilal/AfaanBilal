@@ -212,8 +212,8 @@ I love building and sharing tools for developers, learners, and creators. Here�
 
 ---
 
-GitHub Stats
-------------
+📊 GitHub Stats
+----------------
 
 <img src="https://streak-stats.demolab.com/?user=AfaanBilal&theme=radical&cb=110325" alt="Afaan's GitHub Streak" style="width: 500px;" />
 
@@ -243,8 +243,8 @@ GitHub Stats
 
 </div>
 
-Tech Stack
-----------
+🛠️ Tech Stack
+--------------
 <p style="display: flex; width: 100%;">
     <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=96&color=currentColor" alt="Amazonwebservices" title="Amazonwebservices" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="Digitalocean" title="Digitalocean" width="50px" style="margin: 18px;">
