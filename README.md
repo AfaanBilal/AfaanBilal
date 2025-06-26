@@ -72,7 +72,10 @@ Here are some of my favorite open source projects and what makes them special:
 > - **Why it matters:** Helps users connect spiritually worldwide.
 
 ### [Lumina](https://github.com/AfaanBilal/lumina)
-> An open-source, privacy-friendly, and customizable personal dashboard.  
+
+<img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" width="100%" />
+
+> An open-source, privacy-friendly, and customizable personal spreadsheet.  
 > - **Built with:** Vue + TypeScript  
 > - **Focus:** Productivity and self-hosting
 
