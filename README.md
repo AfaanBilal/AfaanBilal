@@ -12,7 +12,6 @@
   <a href="https://www.twitter.com/AfaanBilal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Afaan's Twitter"></a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
