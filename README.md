@@ -207,6 +207,7 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 
 ### ðŸ§© Simulations & Visualizations
 
+- [NanoCore (Rust)](https://github.com/AfaanBilal/nanocore)
 - [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench)
 - [Verlet Simulation (C)](https://github.com/AfaanBilal/Verlet-Simulation)
 - [Elastic Collisions (Typescript + Canvas)](https://github.com/AfaanBilal/elastic-collisions)
