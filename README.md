@@ -48,6 +48,16 @@ I love sharing knowledge with the community! Here are some of the courses I’ve
 
 Here are some of my favorite open source projects and what makes them special:
 
+### [NanoCore](https://github.com/AfaanBilal/nanocore)
+
+NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Rust.
+
+> - True 8-bit Architecture: True 8-bit: 8-bit registers, PC, and SP
+> - 256-byte memory: Tightly constrained address space
+> - Flexible ISA: 1- and 2-byte instructions
+> - Modular pipeline: Clear Fetch, Decode, Execute phases
+> - Built-in assembler: Write NanoCore Assembly with ease
+
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
 
 <img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
