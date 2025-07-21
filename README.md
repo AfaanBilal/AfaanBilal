@@ -54,6 +54,7 @@ NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Ru
 
 <img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCoreTUI.gif" alt="NanoCore" title="NanoCore" height="500px" />
 
+> - Interactive TUI
 > - True 8-bit Architecture: True 8-bit: 8-bit registers, PC, and SP
 > - 256-byte memory: Tightly constrained address space
 > - Flexible ISA: 1- and 2-byte instructions
