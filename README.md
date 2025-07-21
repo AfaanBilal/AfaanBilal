@@ -52,7 +52,7 @@ Here are some of my favorite open source projects and what makes them special:
 
 NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Rust.
 
-<img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCore-TUI.gif" alt="NanoCore" title="NanoCore" height="400px" />
+<img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCoreTUI.gif" alt="NanoCore" title="NanoCore" height="500px" />
 
 > - True 8-bit Architecture: True 8-bit: 8-bit registers, PC, and SP
 > - 256-byte memory: Tightly constrained address space
