@@ -58,7 +58,7 @@ NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Ru
 > - 256-byte memory: Tightly constrained address space
 > - Flexible ISA: 1- and 2-byte instructions
 > - Modular pipeline: Clear Fetch, Decode, Execute phases
-> - Built-in assembler: Write NanoCore Assembly with ease
+> - Built-in two-pass assembler: Write NanoCore Assembly with ease
 
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
 
