@@ -242,12 +242,6 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 
 ---
 
-<!-- <div align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Afaan's GitHub Stats" style="width: 100%" /></div>
-
----
-
--->
-
 <div align="center">
 
 [![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
