@@ -12,7 +12,6 @@
   <a href="https://www.twitter.com/AfaanBilal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Afaan's Twitter"></a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -31,13 +30,13 @@
 
 I love sharing knowledge with the community! Here are some of the courses I’ve created to help developers learn new skills and frameworks:
 
-- **[Creating an API server in Rust with Actix, SQLx and JWT](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)**  
+- **[Creating an API server in Rust with Actix, SQLx and JWT](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)**
   Build a robust, secure API from scratch in Rust using Actix, SQLx, and JWT.
 
-- **[Creating an API server in Rust with Rocket, SeaORM and JWT](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)**  
+- **[Creating an API server in Rust with Rocket, SeaORM and JWT](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)**
   Learn how to build, test, and deploy modern Rust APIs with Rocket and SeaORM.
 
-- **[Creating a REST API server with PHP, Laravel and MySQL](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)**  
+- **[Creating a REST API server with PHP, Laravel and MySQL](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)**
   Master RESTful API development using Laravel and MySQL with security and best practices.
 
 > 🎯 _I’m always working on new ways to make learning fun and practical. If you have course ideas, feel free to reach out!_
@@ -65,34 +64,34 @@ NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Ru
 
 <img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
 
-> The first programming language for the Kashmiri language.  
+> The first programming language for the Kashmiri language.
 > - **Why it matters:** Promotes regional language technology and education.
 
 ### [Whisper](https://github.com/AfaanBilal/whisper-app)
 
 <img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" height="500px" />
 
-> Open-source microblogging.  
+> Open-source microblogging.
 > - **Built with:** React Native + Go
 
 ### [HyperDB](https://github.com/AfaanBilal/hyperdb)
-> A fast, lightweight, and embeddable NoSQL database written in Rust.  
-> - **Multi-language clients:** Rust, Go, Python, PHP, JS  
-> - **Focus:** Simplicity, performance, and cross-platform usage  
+> A fast, lightweight, and embeddable NoSQL database written in Rust.
+> - **Multi-language clients:** Rust, Go, Python, PHP, JS
+> - **Focus:** Simplicity, performance, and cross-platform usage
 > - **Why it matters:** Enables rapid prototyping and production use for modern apps.
 
 ### [PulseJS](https://github.com/AfaanBilal/pulsejs)
-> A tiny, reactive state management library for JavaScript & TypeScript.  
-> - **Intuitive API**, inspired by modern frameworks  
-> - **Lightweight** and fast  
+> A tiny, reactive state management library for JavaScript & TypeScript.
+> - **Intuitive API**, inspired by modern frameworks
+> - **Lightweight** and fast
 > - **Used in:** personal and community web projects
 
 ### [Lumina](https://github.com/AfaanBilal/lumina)
 
 <img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" height="500px" />
 
-> An open-source, privacy-friendly, and customizable personal spreadsheet.  
-> - **Built with:** Vue + TypeScript  
+> An open-source, privacy-friendly, and customizable personal spreadsheet.
+> - **Built with:** Vue + TypeScript
 > - **Focus:** Productivity and self-hosting
 
 ---
@@ -115,8 +114,8 @@ I love building and sharing tools for developers, learners, and creators. Here�
 
 ### 🗄️ Databases
 
-- [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) – NoSQL DB core  
-- [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) – CLI client  
+- [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) – NoSQL DB core
+- [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) – CLI client
 - [HyperDB Clients:](https://github.com/AfaanBilal?tab=repositories&q=hyperdb) [JavaScript](https://github.com/AfaanBilal/hyperdb-js) | [Go](https://github.com/AfaanBilal/hyperdb-go) | [PHP](https://github.com/AfaanBilal/hyperdb-php) | [Python](https://github.com/AfaanBilal/hyperdb-py) | [Rust](https://github.com/AfaanBilal/hyperdb-rs)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
 
