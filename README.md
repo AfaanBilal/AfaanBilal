@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 - 🔒 Senior Software Development Engineer & CISO at [Centiment](https://www.centiment.co)
