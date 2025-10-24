@@ -11,6 +11,7 @@
   <a href="https://afaan.medium.com"><img src="https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Afaan's Medium"></a>
   <a href="https://www.twitter.com/AfaanBilal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Afaan's Twitter"></a>
 </p>
+
 ---
 
 ## 👨‍💻 About Me
