@@ -82,7 +82,7 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 > - **Focus:** Simplicity, performance, and cross-platform usage
 > - **Why it matters:** Enables rapid prototyping and production use for modern apps.
 
-### [PulseJS](https://github.com/AfaanBilal/pulsejs)
+### [PulseJS](https://github.com/AfaanBilal/pulsejs) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/pulsejs)
 > A tiny, reactive state management library for JavaScript & TypeScript.
 > - **Intuitive API**, inspired by modern frameworks
 > - **Lightweight** and fast
