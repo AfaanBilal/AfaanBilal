@@ -47,7 +47,7 @@ I love sharing knowledge with the community! Here are some of the courses I’ve
 
 Here are some of my favorite open source projects and what makes them special:
 
-### [NanoCore](https://github.com/AfaanBilal/NanoCore)
+### [NanoCore](https://github.com/AfaanBilal/NanoCore) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/NanoCore)
 
 NanoCore is a meticulously crafted emulator for a custom 8-bit CPU written in Rust.
 
@@ -62,21 +62,21 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 > - Modular pipeline: Clear Fetch, Decode, Execute phases
 > - Built-in two-pass assembler: Write NanoCore Assembly with ease
 
-### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang)
+### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/koshur-lang)
 
 <img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
 
 > The first programming language for the Kashmiri language.
 > - **Why it matters:** Promotes regional language technology and education.
 
-### [Whisper](https://github.com/AfaanBilal/whisper-app)
+### [Whisper](https://github.com/AfaanBilal/whisper-app) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/whisper-app)
 
 <img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" height="500px" />
 
 > Open-source microblogging.
 > - **Built with:** React Native + Go
 
-### [HyperDB](https://github.com/AfaanBilal/hyperdb)
+### [HyperDB](https://github.com/AfaanBilal/hyperdb) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/hyperdb)
 > A fast, lightweight, and embeddable NoSQL database written in Rust.
 > - **Multi-language clients:** Rust, Go, Python, PHP, JS
 > - **Focus:** Simplicity, performance, and cross-platform usage
@@ -88,7 +88,7 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 > - **Lightweight** and fast
 > - **Used in:** personal and community web projects
 
-### [Lumina](https://github.com/AfaanBilal/lumina)
+### [Lumina](https://github.com/AfaanBilal/lumina) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/lumina)
 
 <img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" height="500px" />
 
