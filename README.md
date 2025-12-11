@@ -253,8 +253,6 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 
 </details>
 
----
-
 > ðŸ’¡ _Iâ€™m always open to feedback, collaboration, and contributions! If you find something interesting, letâ€™s connect._
 
 ---
@@ -262,7 +260,9 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 ðŸ“Š GitHub Stats
 ----------------
 
-<img src="https://streak-stats.demolab.com/?user=AfaanBilal&theme=radical&cb=110325" alt="Afaan's GitHub Streak" style="width: 500px;" />
+<!--
+
+<img src="https://streak-stats.demolab.com?user=AfaanBilal&theme=radical&hide_border=true" alt="GitHub Streak"  style="width: 500px;" />
 
 ---
 
@@ -275,6 +275,8 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 [![Afaan's Trophies](https://github-profile-trophy.vercel.app/?username=AfaanBilal&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)](https://afaan.dev)
 
 </div>
+
+-->
 
 ---
 
