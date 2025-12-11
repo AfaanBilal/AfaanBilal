@@ -56,6 +56,8 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 
 <img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCoreTUI.gif" alt="NanoCore" title="NanoCore" height="500px" />
 
+<details>
+
 > - Interactive TUI
 > - True 8-bit Architecture: True 8-bit: 8-bit registers, PC, and SP
 > - 256-byte memory: Tightly constrained address space
@@ -63,39 +65,49 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 > - Modular pipeline: Clear Fetch, Decode, Execute phases
 > - Built-in two-pass assembler: Write NanoCore Assembly with ease
 
+</details>
+
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/koshur-lang)
 
 <img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
 
 > The first programming language for the Kashmiri language.
-> - **Why it matters:** Promotes regional language technology and education.
 
 ### [Whisper](https://github.com/AfaanBilal/whisper-app) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/whisper-app)
 
 <img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" height="500px" />
 
-> Open-source microblogging.
-> - **Built with:** React Native + Go
+> Open-source microblogging. Built with React Native + Go.
 
 ### [HyperDB](https://github.com/AfaanBilal/hyperdb) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/hyperdb)
+
 > A fast, lightweight, and embeddable NoSQL database written in Rust.
+
+<details>
+
 > - **Multi-language clients:** Rust, Go, Python, PHP, JS
-> - **Focus:** Simplicity, performance, and cross-platform usage
-> - **Why it matters:** Enables rapid prototyping and production use for modern apps.
+> - Focused on simplicity, performance, and cross-platform usage
+> - Enables rapid prototyping and production use for modern apps.
+
+</details>
+
 
 ### [PulseJS](https://github.com/AfaanBilal/pulsejs) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/pulsejs)
 > A tiny, reactive state management library for JavaScript & TypeScript.
+
+<details>
+
 > - **Intuitive API**, inspired by modern frameworks
 > - **Lightweight** and fast
 > - **Used in:** personal and community web projects
+
+</details>
 
 ### [Lumina](https://github.com/AfaanBilal/lumina) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/lumina)
 
 <img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" height="500px" />
 
-> An open-source, privacy-friendly, and customizable personal spreadsheet.
-> - **Built with:** Vue + TypeScript
-> - **Focus:** Productivity and self-hosting
+> An open-source, privacy-friendly, and customizable personal spreadsheet. Built with Vue + TypeScript.
 
 ---
 
