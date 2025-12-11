@@ -103,7 +103,8 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 
 I love building and sharing tools for developers, learners, and creators. Here’s a peek at some of my published packages, libraries, and apps—many of which are cross-platform and community-driven!
 
-### 📦 Packages & Libraries
+<details>
+<summary>📦 Packages & Libraries</summary>
 
 | Language       | Projects                                                                                   |
 |:-------------- |:------------------------------------------------------------------------------------------|
@@ -113,18 +114,20 @@ I love building and sharing tools for developers, learners, and creators. Here�
 | **Rust**       | [hyperdb-rs](https://crates.io/crates/hyperdb-rs)                                        |
 | **Python**     | [hyperdb-py](https://pypi.org/project/hyperdb-py/)                                       |
 
----
+</details>
 
-### 🗄️ Databases
+<details>
+<summary>🗄️ Databases</summary>
 
 - [HyperDB (Rust)](https://github.com/AfaanBilal/hyperdb) – NoSQL DB core
 - [HyperDB CLI (Rust)](https://github.com/AfaanBilal/hyperdb-cli) – CLI client
 - [HyperDB Clients:](https://github.com/AfaanBilal?tab=repositories&q=hyperdb) [JavaScript](https://github.com/AfaanBilal/hyperdb-js) | [Go](https://github.com/AfaanBilal/hyperdb-go) | [PHP](https://github.com/AfaanBilal/hyperdb-php) | [Python](https://github.com/AfaanBilal/hyperdb-py) | [Rust](https://github.com/AfaanBilal/hyperdb-rs)
 - [HyperDB Docs (React)](https://afaan.dev/hyperdb-docs/)
 
----
+</details>
 
-### 📱 Mobile Apps
+<details>
+<summary>📱 Mobile Apps</summary>
 
 - [OneDua (React Native)](https://github.com/AfaanBilal/one-dua)
 - [Meeqat (React Native)](https://github.com/AfaanBilal/meeqat)
@@ -133,17 +136,19 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Word Hunt (Flutter)](https://github.com/AfaanBilal/word_hunt)
 - [Statistical Analysis (Java)](https://github.com/AfaanBilal/Statistical-Analysis-Android)
 
----
+</details>
 
-### ⚡ Web Frameworks
+<details>
+<summary>⚡ Web Frameworks</summary>
 
 - [PulseJS (TypeScript)](https://github.com/AfaanBilal/pulsejs)
 - [Pulse Mini Demo (TypeScript)](https://github.com/AfaanBilal/pulse)
 - [Pulse Demo (TypeScript)](https://github.com/AfaanBilal/pulse-demo)
 
----
+</details>
 
-### 🌐 Web Apps
+<details>
+<summary>🌐 Web Apps</summary>
 
 - [Lumina (Vue + Typescript)](https://lumina.afaan.dev)
 - [Open Source Summary (React)](https://oss.afaan.dev)
@@ -155,16 +160,18 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Secure Message (JS)](https://github.com/AfaanBilal/secure-message)
 - [Suna Hai (Vue + Typescript)](https://suna-hai.afaan.dev)
 
----
+</details>
 
-### 🈸 Languages
+<details>
+<summary>🈸 Languages</summary>
 
 - [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) (Kashmiri programming language)
 - [Koshur Online](https://koshur.afaan.dev)
 
----
+</details>
 
-### 🔗 API Servers
+<details>
+<summary>🔗 API Servers</summary>
 
 - [Whisper (Go)](https://github.com/AfaanBilal/whisper)
 - [Solid Talk Server (Express + WS)](https://github.com/AfaanBilal/solid-talk-server)
@@ -172,9 +179,10 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Bookstore (Rust + Rocket)](https://github.com/AfaanBilal/bookstore)
 - [Iron Guard Server (Rust + Rocket)](https://github.com/AfaanBilal/iron-guard-server)
 
----
+</details>
 
-### 💻 Terminal Apps
+<details>
+<summary>💻 Terminal Apps</summary>
 
 - [Central Limit (Rust)](https://github.com/AfaanBilal/central-limit)
 - [Sorting Visualizer (Rust)](https://github.com/AfaanBilal/sorting-visualizer)
@@ -196,9 +204,10 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Hash Table (C)](https://github.com/AfaanBilal/hash-table)
 - [Timing Attacks (C)](https://github.com/AfaanBilal/timing-attacks)
 
----
+</details>
 
-### 🖥️ Windows Apps
+<details>
+<summary>🖥️ Windows Apps</summary>
 
 - [AMX TextEdit (C++, wxWidgets)](https://github.com/AfaanBilal/AMX-TextEdit)
 - [Live HTML Editor (C#)](https://github.com/AfaanBilal/Live-HTML-Editor)
@@ -208,9 +217,10 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Tic Tac Toe (C#)](https://github.com/AfaanBilal/Tic-Tac-Toe)
 - [Tic Tac Toe (C++)](https://github.com/AfaanBilal/Tic-Tac-Toe-cpp)
 
----
+</details>
 
-### 🧩 Simulations & Visualizations
+<details>
+<summary>🧩 Simulations & Visualizations</summary>
 
 - [NanoCore (Rust)](https://github.com/AfaanBilal/nanocore)
 - [OpenGL Testbench (C++)](https://github.com/AfaanBilal/OpenGLTestbench)
@@ -221,12 +231,15 @@ I love building and sharing tools for developers, learners, and creators. Here�
 - [Parabolic Motion (JS)](https://github.com/AfaanBilal/parabolic-motion)
 - [Parabolic Motion (React)](https://afaan.dev/parabolic-motion-react/)
 
----
+</details>
 
-### 📚 Guides & Tutorials
+<details>
+<summary>📚 Guides & Tutorials</summary>
 
 - [Hamming Codes (Jupyter)](https://github.com/AfaanBilal/hamming-code/blob/master/hamming-15-11.ipynb)
 - [CodeIgniter Multiple Deployments](https://afaan.dev/codeigniter-multiple-deployments/static/)
+
+</details>
 
 ---
 
