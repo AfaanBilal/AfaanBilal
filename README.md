@@ -30,14 +30,9 @@
 
 I love sharing knowledge with the community! Here are some of the courses I’ve created to help developers learn new skills and frameworks:
 
-- **[Creating an API server in Rust with Actix, SQLx and JWT](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)**
-  Build a robust, secure API from scratch in Rust using Actix, SQLx, and JWT.
-
-- **[Creating an API server in Rust with Rocket, SeaORM and JWT](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)**
-  Learn how to build, test, and deploy modern Rust APIs with Rocket and SeaORM.
-
-- **[Creating a REST API server with PHP, Laravel and MySQL](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)**
-  Master RESTful API development using Laravel and MySQL with security and best practices.
+- **[Build a robust, secure API from scratch in Rust using Actix, SQLx, and JWT](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)**
+- **[Learn how to build, test, and deploy modern Rust APIs with Rocket and SeaORM](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)**
+- **[Master RESTful API development using Laravel and MySQL with security and best practices](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)**
 
 > 🎯 _I’m always working on new ways to make learning fun and practical. If you have course ideas, feel free to reach out!_
 
