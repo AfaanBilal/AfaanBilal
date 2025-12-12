@@ -20,7 +20,7 @@
 - 🌱 Passionate about Rust, Go, security, compliance (SOC2 / HIPAA) and teaching others
 - 🏆 OSS contributor and creator of [NanoCore](https://github.com/AfaanBilal/NanoCore), [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/afaan-bilal) (see my courses below)
-- ✍️ Blogging at [blog.afaan.dev](https://blog.afaan.dev) and [amx.gg](https://amx.gg)
+- ✍️ Blogging at [blog.afaan.dev](https://blog.afaan.dev)
 - 💬 Ask me about open source, backend, or security
 - 🌐 [afaan.dev](https://afaan.dev) | [LinkedIn](https://www.linkedin.com/in/afaanbilal) | [Medium](https://afaan.medium.com)
 
