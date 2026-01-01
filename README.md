@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Afaan Bilal!</h1>
 <p align="center">
-  <b>Senior Software Engineer | OSS Enthusiast | Educator | CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
+  <b>Principal Software Engineer | OSS Enthusiast | Educator | CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
   <i>Building robust software, sharing knowledge, and making tech accessible.</i>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔒 Senior Software Development Engineer & CISO at [Centiment](https://www.centiment.co)
+- 🔒 Principal Software Engineer & CISO at [Centiment](https://www.centiment.co)
 - 🌱 Passionate about Rust, Go, security, compliance (SOC2 / HIPAA) and teaching others
 - 🏆 OSS contributor and creator of [NanoCore](https://github.com/AfaanBilal/NanoCore), [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/afaan-bilal) (see my courses below)
