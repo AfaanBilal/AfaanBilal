@@ -64,7 +64,7 @@ DeepWiki: [AfaanBilal/NanoCore](https://deepwiki.com/AfaanBilal/NanoCore)
 
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/koshur-lang)
 
-<img src="https://github.com/user-attachments/assets/0f1c43eb-80d3-4dcd-aecf-a3256fb76896" alt="Koshur Lang" title="Koshur Lang" height="500px" />
+<img src="https://afaan.dev/screenshots/koshur.png" alt="Koshur Lang" title="Koshur Lang" height="500px" />
 
 > The first programming language for the Kashmiri language.
 
