@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Afaan Bilal!</h1>
 <p align="center">
-  <b>Principal Software Engineer | OSS Enthusiast | Educator | CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
+  <b>Principal Software Engineer | Educator | CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
   <i>Building robust software, sharing knowledge, and making tech accessible.</i>
 </p>
 
