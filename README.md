@@ -14,7 +14,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 - 🔒 Principal Software Engineer & CISO at [Centiment](https://www.centiment.co)
