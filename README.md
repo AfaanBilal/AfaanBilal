@@ -4,6 +4,7 @@
   <i>Building robust software, sharing knowledge, and making tech accessible.</i>
 </p>
 
+
 <p align="center">
   <a href="https://afaan.dev"><img src="https://img.shields.io/badge/Portfolio-afaan.dev-purple?&style=for-the-badge" alt="Afaan's Portfolio"></a>
   <a href="https://blog.afaan.dev"><img src="https://img.shields.io/badge/Blog-amx.gg-black?&style=for-the-badge" alt="Afaan's Blog"></a>
