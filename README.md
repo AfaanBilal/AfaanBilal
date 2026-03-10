@@ -278,6 +278,10 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=AfaanBilal&theme=radical&hide_border=true" alt="Afaan's GitHub Streak"/>
+
+<br>
+
 [![Afaan's Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AfaanBilal&theme=react-dark&custom_title=Afaan%27s%20Contributions&radius=10&area=true)](https://afaan.dev)
 
 </div>
