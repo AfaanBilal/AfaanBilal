@@ -118,7 +118,7 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 | **JavaScript** | [@afaanbilal/pulse](https://www.npmjs.com/package/@afaanbilal/pulse), [random-string](https://www.npmjs.com/package/@afaanbilal/random-string), [hyperdb-js](https://www.npmjs.com/package/hyperdb-js), [react-native-multitap](https://www.npmjs.com/package/react-native-multitap), [react-native-pagination-dots](https://www.npmjs.com/package/react-native-pagination-dots) |
 | **PHP**        | [laravel-has-uuid](https://packagist.org/packages/afaanbilal/laravel-has-uuid), [php-random-string](https://packagist.org/packages/afaanbilal/php-random-string), [hyperdb-php](https://packagist.org/packages/afaanbilal/hyperdb-php) |
 | **Go**         | [hyperdb-go](https://pkg.go.dev/github.com/AfaanBilal/hyperdb-go)                        |
-| **Rust**       | [hyperdb-rs](https://crates.io/crates/hyperdb-rs)                                        |
+| **Rust**       | [hyperdb-rs](https://crates.io/crates/hyperdb-rs), [lsec](https://crates.io/crates/lsec) |
 | **Python**     | [hyperdb-py](https://pypi.org/project/hyperdb-py/)                                       |
 
 </details>
