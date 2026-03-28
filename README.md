@@ -18,7 +18,7 @@
 
 - 🔒 Principal Software Engineer & CISO at [Centiment](https://www.centiment.co)
 - 🌱 Passionate about Rust, Go, security, compliance (SOC2 / HIPAA) and teaching others
-- 🏆 OSS contributor and creator of [lsec](https://lsec.afaan.dev), [NanoCore](https://github.com/AfaanBilal/NanoCore), [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
+- 🏆 OSS contributor and creator of [lsec](https://lsec.afaan.dev), [NanoCore](https://nanocore.afaan.dev), [HyperDB](https://github.com/AfaanBilal/hyperdb) and more
 - 🎓 Instructor on [Udemy](https://www.udemy.com/user/afaan-bilal) (see my courses below)
 - ✍️ Blogging at [blog.afaan.dev](https://blog.afaan.dev)
 - 💬 Ask me about open source, backend, or security
