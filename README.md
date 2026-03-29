@@ -32,6 +32,7 @@ I love sharing knowledge with the community! Here are some of the courses I’ve
 
 - **[Buy The Cloud Security Architect's Handbook](https://cloud-security-handbook.afaan.dev)**
 - **[Read my Cloud Security Architecture Guide](https://cloud-security.afaan.dev)**
+- **[Read my SOC 2 Type II Compliance Guide](https://afaan.dev/assets/SOC-2-Type-II-Compliance.pdf)**
 - **[Build a robust, secure API from scratch in Rust using Actix, SQLx, and JWT](https://www.udemy.com/course/rust-api-server-actix-sqlx-jwt/?referralCode=0C3C85FE260C2016C334)**
 - **[Learn how to build, test, and deploy modern Rust APIs with Rocket and SeaORM](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)**
 - **[Master RESTful API development using Laravel and MySQL with security and best practices](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)**
