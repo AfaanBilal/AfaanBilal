@@ -26,7 +26,6 @@
 
 ---
 
-
 ## 🎓 Courses & Learning
 
 I love sharing knowledge with the community! Here are some of the courses I’ve created to help developers learn new skills and frameworks:
