@@ -287,6 +287,7 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
 
 </div>
 
+<!--
 ðŸ› ï¸ Tech Stack
 --------------
 <p style="display: flex; width: 100%;">
@@ -346,3 +347,4 @@ I love building and sharing tools for developers, learners, and creators. Hereâ€
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50px" style="margin: 18px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" title="Slack" width="50px" style="margin: 18px;">
 </p>
+-->
