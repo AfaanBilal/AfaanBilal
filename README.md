@@ -1,7 +1,7 @@
 <h1 align="center">Afaan Bilal</h1>
 <p align="center">
   <b>Principal Software Engineer · CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
-  <i>Building tools that fill real gaps. Rust, Go, PHP/Laravel, security, and OSS.</i>
+  <i>Building at the edges of what makes sense</i>
 </p>
 
 <p align="center">
