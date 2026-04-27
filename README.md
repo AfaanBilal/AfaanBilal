@@ -43,7 +43,8 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 <img src="https://afaan.dev/screenshots/koshur.png" alt="Koshur Lang" widht="100%" />
 
 ### [HyperDB](https://github.com/AfaanBilal/hyperdb) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/hyperdb)
-> **A fast, lightweight, embeddable NoSQL database written in Rust — with clients in 5 languages.**
+> **A fast, lightweight, embeddable NoSQL database written in Rust — with clients in 5 languages.**  
+> Benchmarks: **50k RPS (read), 49k RPS (write)**  
 > [JavaScript](https://github.com/AfaanBilal/hyperdb-js) · [Go](https://github.com/AfaanBilal/hyperdb-go) · [PHP](https://github.com/AfaanBilal/hyperdb-php) · [Python](https://github.com/AfaanBilal/hyperdb-py) · [Rust](https://github.com/AfaanBilal/hyperdb-rs) · [CLI](https://github.com/AfaanBilal/hyperdb-cli)
 
 ### [Lumina](https://github.com/AfaanBilal/lumina)
