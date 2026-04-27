@@ -34,13 +34,13 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 > **A fully functional 8-bit CPU emulator with its own assembly language, written in Rust.**
 > True 8-bit architecture (registers, PC, SP), 256-byte memory, a flexible ISA, and an interactive TUI — plus a built-in two-pass assembler.
 
-<img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCoreTUI.gif" alt="NanoCore TUI" height="400px" />
+<img src="https://github.com/AfaanBilal/NanoCore/raw/master/assets/NanoCoreTUI.gif" alt="NanoCore TUI" widht="100%" />
 
 ### [Koshur Lang](https://github.com/AfaanBilal/koshur-lang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/koshur-lang)
 > **The first programming language for the Kashmiri language.**
 > A full interpreter with its own syntax, grammar, and runtime — built to make computing more accessible to Kashmiri speakers.
 
-<img src="https://afaan.dev/screenshots/koshur.png" alt="Koshur Lang" height="400px" />
+<img src="https://afaan.dev/screenshots/koshur.png" alt="Koshur Lang" widht="100%" />
 
 ### [HyperDB](https://github.com/AfaanBilal/hyperdb) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/hyperdb)
 > **A fast, lightweight, embeddable NoSQL database written in Rust — with clients in 5 languages.**
@@ -50,12 +50,12 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 > **An open-source, privacy-friendly personal spreadsheet. No cloud, no account required.**
 > Built with Vue + TypeScript. Try it at [lumina.afaan.dev](https://lumina.afaan.dev).
 
-<img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" height="400px" />
+<img src="https://github.com/AfaanBilal/lumina/raw/master/screenshots/lumina-hero.png" widht="100%" />
 
 ### [Whisper](https://github.com/AfaanBilal/whisper-app) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/whisper-app)
 > **Open-source microblogging — React Native frontend, Go backend.**
 
-<img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" height="400px" />
+<img src="https://github.com/AfaanBilal/whisper-app/raw/master/screenshots/whisper.png" alt="Whisper" widht="100%" />
 
 ---
 
