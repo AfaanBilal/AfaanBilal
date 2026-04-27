@@ -26,7 +26,7 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 
 ## Featured Projects
 
-### [lsec](https://lsec.afaan.dev) · [GitHub Action](https://github.com/marketplace/actions/lsec-laravel-security-audit)
+### [lsec](https://lsec.afaan.dev) · [GitHub Action](https://github.com/marketplace/actions/lsec-laravel-security-audit) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AfaanBilal/lsec)
 > **Static analysis CLI for Laravel security auditing, written in Rust.**
 > Catches misconfigurations, exposed secrets, and insecure patterns before they ship. Available as both a CLI tool and a GitHub Action for CI pipelines.
 
