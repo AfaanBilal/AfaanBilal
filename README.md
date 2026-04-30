@@ -85,3 +85,4 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=AfaanBilal&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
