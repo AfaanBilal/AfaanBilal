@@ -15,6 +15,7 @@
 
 ## About
 
+
 Principal Engineer and CISO by day. I spend the rest of my time building tools I wish existed.
 
 - 🔒 Principal Software Engineer & CISO at [Centiment](https://www.centiment.co) — SOC 2, HIPAA, and everything in between
