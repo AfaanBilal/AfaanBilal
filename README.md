@@ -80,6 +80,7 @@ Principal Engineer and CISO by day. I spend the rest of my time building tools I
 - **[Rust API with Rocket & SeaORM](https://www.udemy.com/course/rest-api-server-rust-rocket-seaorm-jwt/?referralCode=0A41F1674B329B330B9F)** — Udemy
 - **[Laravel REST API](https://www.udemy.com/course/laravel-rest-api-server/?referralCode=AE00F1CF28608CD5F56E)** — Udemy
 
+
 ---
 
 <div align="center">
