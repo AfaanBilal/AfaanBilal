@@ -11,7 +11,6 @@
   <a href="https://afaan.medium.com"><img src="https://img.shields.io/badge/Medium-%23dedede.svg?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"></a>
 </p>
 
-
 ---
 
 ## About
