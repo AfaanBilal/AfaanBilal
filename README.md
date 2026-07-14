@@ -1,6 +1,6 @@
 <h1 align="center">Afaan Bilal</h1>
 <p align="center">
-  <b>Principal Software Engineer · CISO @ <a href="https://www.centiment.co">Centiment</a></b><br>
+  <b>Principal Software Engineer · CISO <!-- @ <a href="https://www.centiment.co">Centiment</a></b><br> -->
   <i>Building at the edges of what makes sense</i>
 </p>
 
