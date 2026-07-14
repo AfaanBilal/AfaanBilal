@@ -17,7 +17,7 @@
 
 Principal Engineer and CISO by day. I spend the rest of my time building tools I wish existed.
 
-- 🔒 Principal Software Engineer & CISO at [Centiment](https://www.centiment.co) — SOC 2, HIPAA, and everything in between
+- 🔒 Principal Software Engineer & CISO <!-- at [Centiment](https://www.centiment.co) --> — SOC 2, HIPAA, and everything in between
 - 🦀 Building primarily in **Rust**, **Go**, and **Laravel/PHP**
 - 📚 Courses on Rust APIs, Laravel, and cloud security on [Udemy](https://www.udemy.com/user/afaan-bilal)
 - ✍️ Writing at [blog.afaan.dev](https://blog.afaan.dev) and [Medium](https://afaan.medium.com)
